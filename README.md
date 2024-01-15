@@ -1,0 +1,1 @@
+#i have created an interactive dashboard using Power BI on a dataset regarding superstore sales, specifically focusing on data analysis techniques and time series analysis to provide valueable insights and accurate sales forecasting.
